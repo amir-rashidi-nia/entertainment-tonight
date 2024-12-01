@@ -1,6 +1,5 @@
-# task
-This is a task for cyrunex
-This template should help get you started developing with Vue 3 in Vite.
+# entertainment tonight template
+This template should help get you started developing with Vue 3 and vutify in Vite.
 
 ## Recommended IDE Setup
 
